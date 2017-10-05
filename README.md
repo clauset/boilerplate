@@ -1,1 +1,1 @@
-# boilerplate
+Repository for boilerplate contract clauses.
